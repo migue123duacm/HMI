@@ -1,0 +1,11 @@
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\bin\Debug\HMI prototipo1.exe.config
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\bin\Debug\HMI prototipo1.exe
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\bin\Debug\HMI prototipo1.pdb
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI prototipo1.csproj.AssemblyReference.cache
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI prototipo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI_prototipo1.Form1.resources
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI_prototipo1.Properties.Resources.resources
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI prototipo1.csproj.GenerateResource.cache
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI prototipo1.csproj.CoreCompileInputs.cache
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI prototipo1.exe
+C:\Users\cema\OneDrive\universidad\METROLOGIA E INSTRUMENTACION\HMI prototipo1\obj\Debug\HMI prototipo1.pdb

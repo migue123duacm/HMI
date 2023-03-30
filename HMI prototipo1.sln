@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMI prototipo1", "HMI prototipo1.csproj", "{C61A339B-13CA-4BEB-9B30-8F24975E8CD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61A339B-13CA-4BEB-9B30-8F24975E8CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61A339B-13CA-4BEB-9B30-8F24975E8CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61A339B-13CA-4BEB-9B30-8F24975E8CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61A339B-13CA-4BEB-9B30-8F24975E8CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E452CC4-23E6-418E-BF3D-92E4D47007BB}
+	EndGlobalSection
+EndGlobal
